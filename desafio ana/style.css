@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 580px;
+    height: 600px;
+    background-color: rgb(28, 20, 196);
+   
+
+}
+
+
+.ana-painel-intro {
+    margin: 0 auto;
+    width: 560px;
+    height: 570px;
+    background-color: rgb(122, 4, 95);
+    z-index: 1;
+    clip-path: polygon(100% 13%, 100% 100%, 00% 100%, 0% 0%);
+    
+}
+
+p {
+    margin-top: 50px;
+    padding: 30px;
+    
+   
+}
+img {
+    width: 10px;
+    height: 10px;
+    transform: rotate(270deg);
+    filter: grayscale(10); 
+   
+}
+
+
+    ul {
+        list-style: none;
+    }
+
+    
+  
+
